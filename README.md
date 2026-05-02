@@ -1,6 +1,6 @@
 # 🐶 Cat vs Dog Image Classifier
 
-## 📌 Description
+##  Description
 
 This project is a Convolutional Neural Network (CNN) based image classifier that predicts whether a given image is a **Cat 🐱** or a **Dog 🐶**.
 
@@ -16,7 +16,7 @@ The model is built using deep learning techniques and trained on image data to l
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 * Conv2D + ReLU
 * MaxPooling2D
@@ -30,7 +30,7 @@ The model is built using deep learning techniques and trained on image data to l
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
@@ -67,14 +67,14 @@ The model takes an image as input and prints the prediction in the console:
 
 ---
 
-## ⚠️ Note
+
 
 * Dataset is not included due to large size.
 * Update dataset and image paths in the code before running.
 
 ---
 
-## 📈 Future Improvements
+
 
 * Increase model accuracy with more epochs
 * Add GUI or web interface
@@ -83,8 +83,8 @@ The model takes an image as input and prints the prediction in the console:
 
 ---
 
-## 🙌 Author
 
-Your Name
+
+MAULIK BHARDWAJ
 
 ---
